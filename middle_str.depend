@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636359647 source:c:\users\Администратор\documents\ur_king\middle_str\isdigit.cpp
+	"middle_str.h"
+
+1636363446 c:\users\Администратор\documents\ur_king\middle_str\middle_str.h
+	<iostream>
+	<string>
+
+1636363446 source:c:\users\Администратор\documents\ur_king\middle_str\main.cpp
+	"middle_str.h"
+
+1636363131 source:c:\users\Администратор\documents\ur_king\middle_str\toupper.cpp
+	"middle_str.h"
+
+1636362967 source:c:\users\Администратор\documents\ur_king\middle_str\registr.cpp
+
